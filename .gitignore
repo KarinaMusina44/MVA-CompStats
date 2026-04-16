@@ -1,0 +1,8 @@
+# env
+venv/
+
+# data
+data/*
+
+# mac
+.DS_Store
